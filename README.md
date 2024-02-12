@@ -1,3 +1,5 @@
+Modified config for Pico-Game-Controller to work with https://github.com/huantianad/SDVX-Pico-PCB.
+
 # Pico-Game-Controller
 
 This branch was developed with SDVX in mind. Capable of handling 7 LEDs, 1 WS2812B RGB strip, and 2 encoders.
