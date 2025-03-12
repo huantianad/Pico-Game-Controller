@@ -1,1 +1,4 @@
 build/
+
+# nix direnv
+.direnv/
