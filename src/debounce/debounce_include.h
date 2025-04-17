@@ -17,3 +17,4 @@ extern uint64_t sw_timestamp[SW_GPIO_SIZE];
 
 #include "deferred.c"
 #include "eager.c"
+#include "eager_deferred.c"
